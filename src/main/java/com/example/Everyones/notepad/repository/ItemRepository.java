@@ -1,4 +1,4 @@
-package com.example.Everyones.notepad.ItemRepository;
+package com.example.Everyones.notepad.repository;
 
 
 import com.example.Everyones.notepad.entity.Item;
